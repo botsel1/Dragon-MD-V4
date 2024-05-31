@@ -38,7 +38,9 @@
 
   
 
-●. ***[SCAN QR CODE](https://replit.com/@AmiyaProgrammer/Dragon-MD-V4-QR?v=1)***
+●. ## 2 *`⨷ SCAN OR PAIR QR`*
+<a href='https://king-md-session.onrender.com/' target="_blank"><img alt='scan repo' src='https://img.shields.io/badge/Get Session Id-black?style=for-the-badge&logo=flutter&logoColor=white'/></a>
+
 
 ●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login) or [railway.app](https://railway.app).***
 
