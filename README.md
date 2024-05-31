@@ -49,7 +49,8 @@
 ---
 
 ## Heroku Deployment Method
-[![Deploy on heroku](https://heroku.com/deploy?template=
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/TechwithAmee1/Dragon-MD-V4&template=https://github.com/TechwithAmee1/Dragon-MD-V4.git)
+
 
 ## Replit Deployment Method
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/TechwithAmee1/Dragon-MD-V4)
