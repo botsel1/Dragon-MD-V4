@@ -1,15 +1,15 @@
 {
-    "name": "Dragon-MD-V4",
+    "name": "black-v4",
     "description": "A Whatsapp md bot built in NodeJs to make experience better",
     "logo": "https://i.ibb.co/wRgDy33/20221104-225109.png",
     "keywords": [
         "nodejs",
         "bot",
         "whatsapp bot",
-        "Dragon-MD-V4",
-        "DragonBot",
-        "Dragon",
-        "DragonMD",
+        "black-MD-V4",
+        "blackBot",
+        "black",
+        "blackMD",
         "multi device"
     ],
     "success_url": "https://whatsapp.com/channel/0029VaBIKjbDzgTFi1qZLi0C",
